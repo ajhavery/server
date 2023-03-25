@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend server of dhamika",
+  "main": "index.js",
+  "author": "ankur jhavery",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
